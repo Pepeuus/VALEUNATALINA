@@ -96,22 +96,27 @@ body{
 @keyframes festas {
     0% {
         color: red;
+        font-size: 16px;
     }
 
     25% {
         color: green;
+        font-size: 18px;
     }
 
     50% {
         color: yellow;
+        font-size: 20px;
     }
 
     75% {
         color: blue;
+        font-size: 21px;
     }
 
     100% {
         color: red;
+        font-size: 16px;
     }
 }
 
